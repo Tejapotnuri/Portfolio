@@ -1142,15 +1142,18 @@ input[type="range"]::-webkit-slider-thumb {
         margin: 0 10px;
         font-size: 18px;
     }
+    .links2{
+        font-size: 15px;
+        line-height: 2.2;
+    }
     .top-left span{
         font-size: 12px;
     }
     .cont-btn{
-        font-size: 16px;
-        padding: 7px 10px;
+        font-size: 14px;
     }
     .menu-btn{
-        font-size: 25px;
+        font-size: 22px;
     }
     .email{
         font-size: 25px;
