@@ -1040,17 +1040,18 @@ input[type="range"]::-webkit-slider-thumb {
         display: none;
     }
     .top-left{
-        width: 50%;
+        width: 70%;
     }
     .top-right{
-        width: 50%;
+        width: 30%;
     }
     .cont-btn{
         font-size: 16px;
-        padding: 7px 10px;
+        padding: 7px 5px;
     }
     .menu-btn{
         font-size: 25px;
+        margin-left: 15px;
     }
     .top-left span{
         font-size: 16px;
@@ -1144,7 +1145,7 @@ input[type="range"]::-webkit-slider-thumb {
     }
     .links2{
         font-size: 15px;
-        line-height: 2.2;
+        line-height: 2;
     }
     .top-left span{
         font-size: 12px;
@@ -1154,6 +1155,7 @@ input[type="range"]::-webkit-slider-thumb {
     }
     .menu-btn{
         font-size: 22px;
+        margin-left: 10px;
     }
     .email{
         font-size: 25px;
