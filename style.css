@@ -1062,10 +1062,14 @@ input[type="range"]::-webkit-slider-thumb {
         top: 20%;
     }
     .name{
-        font-size: 42px;
+        font-size: 30px;
+        margin: 12px 0;
     }
     .pro-content h2{
-        font-size: 22px;
+        font-size: 18px;
+    }
+    .hand{
+        font-size: 15px;
     }
     @keyframes fade-out-header {
         0%{
@@ -1159,5 +1163,8 @@ input[type="range"]::-webkit-slider-thumb {
     }
     .email{
         font-size: 25px;
+    }
+    .pro-content p{
+        padding-right: 0;
     }
 }
