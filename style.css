@@ -663,6 +663,7 @@ input[type="range"]::-webkit-slider-thumb {
 .projects{
     justify-content: space-evenly;
     row-gap: 30px;
+    column-gap: 10px;
     margin: 50px 0;
 }
 .project-block {
@@ -671,7 +672,7 @@ input[type="range"]::-webkit-slider-thumb {
     border-radius: 20px;
     overflow: hidden;
     min-height: 350px;
-    padding: 20px 10px;
+    padding: 10px 10px;
     color: black;
     cursor: pointer;
     position: relative;
@@ -680,7 +681,7 @@ input[type="range"]::-webkit-slider-thumb {
     color: rgb(246, 231, 211);
     background: rgb(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
-    padding: 25px;
+    padding: 15px;
     border-radius:0 0 20px 20px;
     position: absolute;
     bottom: -110%;
